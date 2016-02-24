@@ -1,0 +1,6 @@
+#Parametri di connessione#
+password = jenkinsbot.001
+dbName =siancm
+dbConn = dim9
+server =172.21.2.10
+username = botjenkins
